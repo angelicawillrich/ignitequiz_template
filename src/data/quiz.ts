@@ -75,7 +75,11 @@ export const QUIZ = [
         alternatives: [
           'Adiciona um menu fixo na parte inferior do dispositivo, facilitando o acesso a telas utilizadas com mais frequência.',
           'Ao abrir uma nova tela, essa nova tela é colocada no topo da pilha de navegação e ao voltar telas, as mesmas são removidas dessa pilha.',
+          'Adiciona um menu lateral, ocupando toda a altura do dispositivo. No primeiro momento esse menu fica escondido e você consegue abrir o menu arrastando a tela.',
+          'Adiciona um menu fixo na parte inferior do dispositivo, facilitando o acesso a telas utilizadas com mais frequência.',
+          'Ao abrir uma nova tela, essa nova tela é colocada no topo da pilha de navegação e ao voltar telas, as mesmas são removidas dessa pilha.',
           'Adiciona um menu lateral, ocupando toda a altura do dispositivo. No primeiro momento esse menu fica escondido e você consegue abrir o menu arrastando a tela.'
+
         ],
         correct: 1
       },
